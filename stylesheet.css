@@ -300,50 +300,5 @@ footer {
     margin: 50px 0;
 }
 
-/* profileのスタイルシート */
-
-.profile_wrapper {
-    padding: 0 10px;
-}
-
-.item_list {
-        max-width: 100%;
-    }
-
-.item_list b {
-    font-size: 18px;
-}
-
-.icon_list {
-        max-width: 100%;
-    }
-
-.icon_list li {
-    margin-right: 25pc;
-}
-
-/* workのスタイルシート */
-
-.works_wrapper {
-    margin: 60px 0 0;
-    padding: 0 10px;
-}
-
-.works_list {
-    max-width: 100%;
-}
-
-.works_list li {
-    max-width: 100%;
-    float: none;
-    margin-right: 0;
-    margin-bottom: 30px;
-}
-
-.works_list span {
-    font-size: 14px;
-}
-
 
 }
-
